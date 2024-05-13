@@ -1,0 +1,189 @@
+header img{
+    width:70px;
+}
+.menu-list a{
+    padding-left:90px;
+}
+.menu-list a{
+text-decoration: none;
+color:black;
+}
+.text h1{
+    font-size:60px;
+    font-family:sans-serif;
+}
+.text h2{
+    font-size:25px;
+}
+.text p{
+    font-size:20px;
+}
+main img{
+    width:400px;
+    height:400px;
+    margin-top:100px;
+    margin-left:200px;
+    margin-right:150px;
+}
+.text{
+    display: inline-block;
+    text-align: end;
+    padding-bottom:200px;
+}
+
+.text h1,h2,p{
+    text-align:left;
+}
+.text h2{
+    font-family:sans-serif;
+    font-weight: 300;
+}
+.text p{
+   font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+   font-weight:350;
+   font-size:16px;
+   line-height: 1.5;
+}
+h1{
+    font-size:40px;
+    font-family:sans-serif;
+    text-align: center;
+}
+.Energy_value_of_nutrients h1{
+    font-size:40px;
+    font-family:sans-serif;
+    text-align:left;
+}
+.Composition_and_allergens h1{
+    font-size:30px;
+    font-family:sans-serif;
+    text-align:left;
+    margin-bottom:60px;
+}
+.Composition_and_allergens p{
+    font-size:16px;
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+   font-weight:350;
+   line-height: 1.5;
+}
+.Composition_and_allergens{
+    border-top:solid 1px gray;
+    border-bottom:solid 1px gray;
+    margin-bottom:150px;
+    margin-left:250px;
+    margin-right:250px;
+}
+.Energy_value_of_nutrients{
+    border-top:solid 1px gray;
+    border-bottom:solid 1px gray;
+    margin-left:250px;
+    margin-right:250px;
+}
+.Energy_value_of_nutrients article h1{
+    font-size:30px;
+    font-family:FreeMono,sans-serif;
+    font-weight:100;
+    margin-left:35px;
+    margin-right:35px;
+}
+.Energy_value_of_nutrients article h2{
+    font-size:15px;
+    font-family:sans-serif;
+    font-weight:100;
+    text-align: center;
+}
+.Energy_value_of_nutrients article{
+    display: inline-block;
+   line-height:2px;
+}
+.Energy_value_of_nutrients h1{
+    font-size:30px;
+    font-family:sans-serif;
+    text-align:left;
+    margin-bottom:60px;
+}
+.information{
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-left:40px;
+    margin-right:40px;
+    border-bottom:dashed 1px gray;
+}
+.information_2{
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-left:40px;
+    margin-right:200px;
+    border-bottom:dashed 1px gray;
+}
+.article_information{
+    text-align: end;
+}
+.Energy_value_of_nutrients{
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+   font-weight:350;
+}
+.text_energy_value_of_nutrients{
+    text-align: center;
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight:350;
+}
+div{
+    background-color:rgb(244, 244, 244);
+    padding-top:100px;
+   padding-bottom:10px;
+}
+td{
+  padding-bottom:4px ;
+  padding-left:150px;  
+  font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-weight:350;
+  margin-right:150px;
+}
+.allergens{
+    font-size:12px;
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-weight:350;
+  padding-bottom:100px;
+  margin-left:150px;
+  margin-right: 150px;
+}
+footer section img{
+    margin-right:20px;
+}
+table{
+    padding-bottom:50px;
+}
+.link_2{
+    float: right;
+}
+.link{
+    margin-left:150px;
+    margin-right:150px;
+    padding-bottom:50px;
+    border-bottom:solid 1px gray;
+}
+.end{
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight:350; 
+    display:inline-block;
+    padding-right:40px;
+}
+.end_2{
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight:350; 
+    float: right;
+}
+.end_2_img{
+    margin-top:10px;
+    margin-right:0px;
+    width:30px;
+    height:30px;
+    float: right;
+}
+.all_end{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
