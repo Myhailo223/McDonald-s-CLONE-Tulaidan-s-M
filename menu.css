@@ -1,0 +1,101 @@
+header img{
+    width:70px;
+}
+.menu-list a{
+    padding-left:50px;
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; 
+    font-weight:350;
+}
+.img-with-app{
+    width:500px;
+    height:400px;
+}
+.menu-list a{
+    text-decoration: none;
+    color:black;
+    }
+main h1{
+    text-align: center;
+    font-size:100px;
+    font-family:sans-serif;
+}
+main h2{
+    text-align: center;
+    font-size:60px;
+    font-family: sans-serif;
+}
+main img{
+width:300px;
+height:300px;
+}
+main section{
+    display: inline-block;
+}
+main section{
+    margin-left:100px;
+}
+main section p{
+    text-align: center;
+    color: black;
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight:350; 
+    font-size:20px;
+}
+main section a{
+text-decoration: none;
+}
+td{
+    padding-bottom:4px ;
+    padding-left:150px;  
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight:350;
+    margin-right:150px;
+  }
+  .allergens{
+      font-size:12px;
+      font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight:350;
+    padding-top: 100px;
+    padding-bottom:100px;
+    margin-left:150px;
+    margin-right: 150px;
+  }
+  footer section img{
+      margin-right:20px;
+  }
+  table{
+      padding-bottom:50px;
+  }
+  .link_2{
+      float: right;
+  }
+  .link{
+      margin-left:150px;
+      margin-right:150px;
+      padding-bottom:50px;
+      border-bottom:solid 1px gray;
+  }
+  .end{
+      font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+      font-weight:350; 
+      display:inline-block;
+      padding-right:40px;
+  }
+  .end_2{
+      font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+      font-weight:350; 
+      float: right;
+  }
+  .end_2_img{
+      margin-top:10px;
+      margin-right:0px;
+      width:30px;
+      height:30px;
+      float: right;
+  }
+  .all_end{
+      margin-left: 150px;
+      margin-right: 150px;
+      margin-top: 50px;
+      margin-bottom: 100px;
+  }

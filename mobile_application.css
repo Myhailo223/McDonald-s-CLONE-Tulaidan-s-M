@@ -1,0 +1,180 @@
+header img{
+    width:70px;
+}
+.menu-list a{
+    padding-left:50px;
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; 
+    font-weight:350;
+
+}
+a{
+text-decoration: none;
+color:black;
+}
+.beginning{
+font-size:50px;
+font-family:sans-serif;
+text-align: center;
+margin-top:60px;
+}
+.beginning_2 p{
+    display: inline-block;
+}
+main{
+    margin-left:100px;
+    margin-right:100px;
+}
+nav{
+    margin-top:200px;
+}
+.more_details{
+    color: rgb(0, 0, 0);
+    font-size:16px;
+    background-color: rgb(254, 182, 0);
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; 
+    font-weight:350;
+    border-radius: 4px;
+    padding:12px;
+    margin-right:100px;
+    margin-top:150px;
+  }
+  main h1{
+    text-align: center;
+    font-size:35px;
+    font-family:sans-serif;
+    margin-top:30px;
+  }
+  main{
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; 
+    font-weight:350;
+  }
+  .how_to_download_the_application_article img{
+    width: 500px;
+    height: 320px;
+  }
+  .how_to_download_the_application_article{
+    margin-top: 50px;
+  }
+  .how_to_download_the_application_article p{
+    text-align: center;
+    margin-top:70px;
+  }
+  .how_to_download_the_application{
+    margin-left:110px;
+  }
+  main article{
+    display: inline-block;
+  }
+  .app img{
+    width: 400px;
+    height: 270px;
+    margin-bottom: 50px;
+  }
+  .app{
+    text-align: center;
+    line-height:1.5;
+  }
+  .app2 img{
+    width: 180px;
+    height: 120px;
+    margin-bottom: 50px;
+  }
+  .app2{
+    text-align: center;
+    line-height:1.5;
+    margin-right:20px;
+  }
+.all_app{
+    margin-left:110px;
+}
+.app3 img{
+    width: 400px;
+    height: 270px;
+    margin-bottom: 50px;
+    margin-right:5px;
+  }
+.app3{
+    text-align: center;
+    line-height:1.5;
+  }
+  .app3_2 img{
+    width: 400px;
+    height: 270px;
+    margin-bottom: 25px;
+    margin-right:5px;
+  }
+.app3_2{
+    text-align: center;
+    line-height:1.5;
+  }
+  .h2{
+    font-size: 25px;
+    text-align: center;
+  }
+  .more_details_2{
+    color: rgb(0, 0, 0);
+    font-size:16px;
+    background-color: rgb(254, 182, 0);
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; 
+    font-weight:350;
+    border-radius: 4px;
+    padding:12px;
+    text-align: center;
+    margin-left:500px;
+    margin-right:500px;
+    margin-top: 100px;
+    margin-bottom: 200px;
+  }
+  .link02{
+    display: inline-block;
+    color: rgb(15, 101, 213);
+    margin-left:300px;
+    font-size: 15px;
+    margin-bottom: 150px;
+  }
+  footer section img{
+    margin-right:20px;
+}
+table{
+    padding-bottom:50px;
+}
+.link_2{
+    float: right;
+}
+.link{
+    margin-left:150px;
+    margin-right:150px;
+    padding-bottom:50px;
+    border-bottom:solid 1px gray;
+}
+td{
+    padding-bottom:4px ;
+    padding-left:150px;  
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight:350;
+    margin-right:150px;
+  }
+.end{
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight:350; 
+    display:inline-block;
+    padding-right:40px;
+}
+.end_2{
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight:350; 
+    float: right;
+}
+.end_2_img{
+    margin-top:10px;
+    margin-right:0px;
+    width:30px;
+    height:30px;
+    float: right;
+}
+.all_end{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
